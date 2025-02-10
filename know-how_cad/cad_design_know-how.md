@@ -11,136 +11,104 @@
 |   **Normal Fit (Sliding Fit)**  |   \< 0.20  |
 |   **Loose Fit (Clearance Fit)**  |   \> 0.25  |
 
- 
+* **Clearance Gap:** Clearance between object lines in total. E.g.: If a cylinder diameter is ⌀3 mm, the pillar diameter should be ⌀2.85 mm for a normal fit.
+* The values are for Prusa MK3S printer and PETG material.
+* For the PLA, lower the clearance gap slightly.
+* **Press Fit:** Suitable for snap-fit joints and friction assemblies.
+* **Tight Fit:** Ideal for parts that need to stay together but still allow for manual assembly and disassembly.
+* **Normal Fit:** Suitable for moving parts such as hinges, enclosures, and modular components.
+* **Loose Fit:** Useful for hinges, guides, and other mechanisms requiring free movement.
 
-* **Clearance Gap:** Clearance between object lines in total. E.g.: If a cylinder diameter is ⌀3 mm, the pillar diameter should be ⌀2.85 mm for a normal fit. if it is a square cross-section with a 5 mm length on each edge, each edge of the nest should be 5.10 mm for a tight fit.     
-* The values are for Prusa MK3S printer and PETG material.   
-* For the PLA, lower the clearance gap slightly.    
-* **Press Fit:** Suitable for snap-fit joints and friction assemblies.   
-* **Tight Fit:** Ideal for parts that need to stay together but still allow for manual assembly and disassembly.   
-* **Normal Fit:** Suitable for moving parts such as hinges, enclosures, and modular components.   
-* **Loose Fit:** Useful for hinges, guides, and other mechanisms requiring free movement. 
-
+## RPi HQ Cam Housing Design
    
-## RPi HQ Cam Housing Design   
+![RPi HQ Cam Housing Design](./images/rpi_hq_cam_housing_design.png)
    
-![](know_how_cad/images/rpi_hq_cam_housing_design.png)  
-   
-## Tripod Holder   
+## Tripod Holder
    
 ### Master Sketch:   
-![](know_how_cad/images/tripod_holder_master_sketch.png)  
+![Tripod Holder Master Sketch](./images/tripod_holder_master_sketch.png)
    
-### Sub-Sketchs:   
-![](know_how_cad/images/tripod_holder_sub_sketch_1.png)
-![](know_how_cad/images/tripod_holder_sub_sketch_2.png)
-![](know_how_cad/images/tripod_holder_sub_sketch_3.png)
-![](know_how_cad/images/tripod_holder_sub_sketch_4.png)
-![](know_how_cad/images/tripod_holder_sub_sketch_5.png)
+### Sub-Sketches:
+![Sub-Sketch 1](./images/tripod_holder_sub_sketch_1.png)
+![Sub-Sketch 2](./images/tripod_holder_sub_sketch_2.png)
+![Sub-Sketch 3](./images/tripod_holder_sub_sketch_3.png)
+![Sub-Sketch 4](./images/tripod_holder_sub_sketch_4.png)
+![Sub-Sketch 5](./images/tripod_holder_sub_sketch_5.png)
    
-## Rail System   
+## Rail System
    
-![](know_how_cad/images/rail_system.png) 
+![Rail System](./images/rail_system.png)
    
-## 28byj-48 Stepper Motor Shaft Nest   
- 
+## 28byj-48 Stepper Motor Shaft Nest
 
 * Master Sketch (Tight (0.10 mm) \- Press Fit (0.05 mm)):  
-
-![](know_how_cad/images/stepper_motor_master.png)
- 
+![Master Sketch](./images/stepper_motor_master.png)
 
 * Hole depth (5.1mm): 2.5 mm 
-
-![](know_how_cad/images/stepper_motor_solid_1.png)
- 
+![Hole Depth](./images/stepper_motor_solid_1.png)
 
 * Notch depth: 8.50 mm 
-
-![](know_how_cad/images/stepper_motor_solid_2.png)
+![Notch Depth](./images/stepper_motor_solid_2.png)
    
-## M3 Square Nut Nest Design   
- 
+## M3 Square Nut Nest Design
 
 * Notch depth: 7.75 mm 
-
-![](know_how_cad/images/m3_square_nut_nest_1.png) 
- 
+![Notch Depth](./images/m3_square_nut_nest_1.png)
 
 * Hole diameter: 3 mm;   
 * Hole depth: 6 mm; 
-
-![](know_how_cad/images/m3_square_nut_nest_2.png) 
+![Hole Dimensions](./images/m3_square_nut_nest_2.png)
    
-## M3 Screw Head or Hex Nut Embedded Design (Circle)   
- 
+## M3 Screw Head or Hex Nut Embedded Design (Circle)
 
 * Diameter: 6 mm 
-
-![](know_how_cad/images/m3_hex_nut_nest_1.png)  
- 
+![Diameter](./images/m3_hex_nut_nest_1.png)
 
 * Hole depth: 3 mm 
-
-![](know_how_cad/images/m3_hex_nut_nest_2.png) 
+![Hole Depth](./images/m3_hex_nut_nest_2.png)
    
-## M3 Hex Nut Embedded Design    
- 
+## M3 Hex Nut Embedded Design
 
 * Width across corners: 6.35 mm   
 * Width across flats: 5.50 mm   
 * Edge: 3.18 mm   
 * Depth: 2.5 mm  
-
-![](know_how_cad/images/m3_hex_nut_nest_3.png) 
+![Dimensions](./images/m3_hex_nut_nest_3.png)
    
-   
-## Screw Head Design   
- 
+## Screw Head Design
 
 * Master Sketch 
-
-![](know_how_cad/images/screw_head_1.png)  
- 
+![Master Sketch](./images/screw_head_1.png)
 
 * Pad length: 4.5 mm 
-
-![](know_how_cad/images/screw_head_2.png)
- 
+![Pad Length](./images/screw_head_2.png)
 
 * Circle diameter: 5.4 mm   
 * Pocket depth: 3 mm 
-
-![](know_how_cad/images/screw_head_3.png)
- 
+![Dimensions](./images/screw_head_3.png)
 
 * Pad length: 1 mm   
 * Taper Angle: \-10°   
 * Inner Angle: 10° 
-
-![](know_how_cad/images/screw_head_4.png)
+![Angles](./images/screw_head_4.png)
    
-## Piller/Rivet Design   
- 
+## Pillar/Rivet Design
 
 * RPi 5 Hole: ⌀2.7 mm (As an example)   
 * Pillar Diameter \= ⌀2.5 mm; Pillar Length \= 4 mm   
 * Head Diameter \= ⌀5 mm; Head Length \= 4 mm   
 * Head Hole Diameter \= ⌀2.65 mm; Head Hole Depth \= 3 mm 
-
    
-### Example: 
+### Example:
 
 * Original Screw Hole: ⌀4.3 mm    
 * Pillar Diameter \= ⌀4.15 mm, Pillar Length \= 7 mm   
 * Head Diameter \= ⌀6.5 mm, Head Length \= 15 mm   
 * Head Hole Diameter \= ⌀4.3 mm, Head Hole Depth \= 6 mm 
-
+![Example](./images/rivet_master.png)
+![Rivet](./images/rivet.png)
    
-![](know_how_cad/images/rivet_master.png) 
-![](know_how_cad/images/rivet.png)
-   
-## Bearing Design   
+## Bearing Design
    
 Ref: [https://www.thingiverse.com/thing:2375124](https://www.thingiverse.com/thing:2375124)    
    
@@ -155,13 +123,8 @@ Ref: [https://www.thingiverse.com/thing:2375124](https://www.thingiverse.com/thi
 | ScrewDiameter  | 3  |
 | NumScrews  | 12  |
 
- 
-
 * MasterTopView Sketch 
-
-![](know_how_cad/images/bearing_design_top_master.png)
- 
+![Top View](./images/bearing_design_top_master.png)
 
 * MasterSideView Sketch 
-
-![](know_how_cad/images/bearing_design_side_master.png)
+![Side View](./images/bearing_design_side_master.png)
