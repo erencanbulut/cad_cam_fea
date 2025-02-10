@@ -6,6 +6,7 @@
 
 |   Desired Fit  |   Clearance Gap (mm)  |
 | :---- | :---- |
+|   **Threading (For Screws)**  |   Line to line  |
 |   **Press Fit (Interference Fit)**  |   \< 0.05  |
 |   **Tight Fit (Transition Fit)**  |   \< 0.10  |
 |   **Normal Fit (Sliding Fit)**  |   \< 0.20  |
@@ -14,6 +15,7 @@
 * **Clearance Gap:** Clearance between object lines in total. E.g.: If a cylinder diameter is ⌀3 mm, the pillar diameter should be ⌀2.85 mm for a normal fit.
 * The values are for Prusa MK3S printer and PETG material.
 * For the PLA, lower the clearance gap slightly.
+* **Threading:** Ideal when mounting is required without using bolts. E.g.: For an M3 screw, the hole diameter is 3 mm. 
 * **Press Fit:** Suitable for snap-fit joints and friction assemblies.
 * **Tight Fit:** Ideal for parts that need to stay together but still allow for manual assembly and disassembly.
 * **Normal Fit:** Suitable for moving parts such as hinges, enclosures, and modular components.
