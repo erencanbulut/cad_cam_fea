@@ -16,7 +16,7 @@
 * The values are for Prusa MK3S printer and PETG material.
 * For the PLA, lower the clearance gap slightly.
 * **Threading:** Ideal when mounting is required without using bolts. E.g.: For an M3 screw, the hole diameter is 3 mm. 
-* **Press Fit:** Suitable for snap-fit joints and friction assemblies. Use for the cover of the housings. E.g.: Covers for the RPi Cam Housing
+* **Press Fit:** Suitable for snap-fit joints and friction assemblies. Also, ideal for the cover of the housings. E.g.: Covers for the RPi Cam Housing
 * **Tight Fit:** Ideal for parts that need to stay together but still allow for manual assembly and disassembly.
 * **Normal Fit:** Suitable for moving parts such as hinges, enclosures, and modular components.
 * **Loose Fit:** Useful for hinges, guides, and other mechanisms requiring free movement.
