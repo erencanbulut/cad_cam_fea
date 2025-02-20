@@ -26,7 +26,11 @@
 | \>= 50%  | High density  | Provides significant strength, suitable for mechanical parts **(pan-tilt mechanisms, sliders, and guides)** or **load-bearing structures**.   |
 | \>= 80%  | Solid  | Full density, maximum strength **(e.g., engine mounts, structural supports, holders)**. Used for parts that require high durability.   |
 
-   
+
+## Prusa MK3S Printer Settings
+
+![Ideal Support Settings](./images/support_settings.jpg)
+
 ## Flexible Materials
  
 
