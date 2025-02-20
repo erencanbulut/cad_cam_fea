@@ -27,7 +27,7 @@
 | \>= 80%  | Solid  | Full density, maximum strength **(e.g., engine mounts, structural supports, holders)**. Used for parts that require high durability.   |
 
 
-## Prusa MK3S Printer Settings
+## Prusa MK3S Support Material Settings
 
 ![Ideal Support Settings](./images/support_settings.jpg)
 
